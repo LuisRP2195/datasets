@@ -1,27 +1,27 @@
-﻿Local ;Barrio;Salon de Vtas;avg ticket;seccion
-1;Pocitos;85m2;157,4392344;18
-2;Punta Carretas;75m2;159,8673425;18
-3;Pocitos;140m2;180,38;18
-4;Buceo;60m2;149,6;24
-5;Cordon;100m2;158,7416867;15
-6;Pocitos;100m2;151,3909914;18
-7;Parque Rodo;60m2;151,2597565;15
-8;Carrasco;120m2;177,32;10
-9;Centro;100m2;120,7937041;5
-10;Pocitos;120m2;149,52;18
-11;Buceo;139m2;197,4;10
-12;Pocitos;100m2;185,5827746;18
-13;Punta Carretas;71m2;173,3111606;18
-14;Malvin;145m2;177;10
-15;Punta Carretas;105m2;167,3501303;18
-16;Centro;107m2;146,16;4
-18;Centro;84m2;128,26;5
-19;Ciudad Vieja;112m2;142,8207368;1
-20;Carrasco Norte;135m2;186;10
-22;Carrasco Norte;118m2;191,52;10
-23;Centro;100m2;113,9830098;1
-24;Pocitos;100m2;138,06;18
-25;La Blanqueada;107m2;138,51;23
-26;Pque. Batlle, V. Dolores;42m2;145;24
-27;Punta Carretas;56m2;162,4;18
-28;Centro;90m2;118,5;7
+﻿Local ;Barrio;Salon de Vtas;avg ticket;seccion;C
+1;Pocitos;85m2;157,4392344;18;2965
+2;Punta Carretas;75m2;159,8673425;18;2865
+3;Pocitos;140m2;180,38;18;2711
+4;Buceo;60m2;149,6;24;3320
+5;Cordon;100m2;158,7416867;15;3604
+6;Pocitos;100m2;151,3909914;18;2846
+7;Parque Rodo;60m2;151,2597565;15;3300
+8;Carrasco;120m2;177,32;10;4231
+9;Centro;100m2;120,7937041;5;3721
+10;Pocitos;120m2;149,52;18;3725
+11;Buceo;139m2;197,4;10;2957
+12;Pocitos;100m2;185,5827746;18;2854
+13;Punta Carretas;71m2;173,3111606;18;2503
+14;Malvin;145m2;177;10;3587
+15;Punta Carretas;105m2;167,3501303;18;3648
+16;Centro;107m2;146,16;4;3349
+18;Centro;84m2;128,26;5;3341
+19;Ciudad Vieja;112m2;142,8207368;1;4094
+20;Carrasco Norte;135m2;186;10;3096
+22;Carrasco Norte;118m2;191,52;10;2726
+23;Centro;100m2;113,9830098;1;4083
+24;Pocitos;100m2;138,06;18;2949
+25;La Blanqueada;107m2;138,51;23;2366
+26;Pque. Batlle, V. Dolores;42m2;145;24;1802
+27;Punta Carretas;56m2;162,4;18;1957
+28;Centro;90m2;118,5;7;782
